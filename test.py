@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-data = {'Name': ['John', 'Anna', 'Peter', 'Linda', 'Pepo', 'lado'],
+data = {'Name': ['John', 'Anna', 'Peter', 'Linda', 'Pepo', 'bado'],
     'Age': [28, 24, 35, 32, 45, 50]}
 
 df = pd.DataFrame(data)
