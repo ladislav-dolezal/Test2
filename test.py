@@ -2,7 +2,7 @@ import pandas as pd
 
 
 data = {'Name': ['John', 'Anna', 'Peter', 'Linda'],
-    'Age': [28, 24, 35, 32]}
+    'Age': [28, 24, 35, 32, 45]}
 
 df = pd.DataFrame(data)
 total_age = df['Age'].sum()
